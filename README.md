@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jiadu0710/DailyTest/_apis/build/status/msftcoderdjw.pipelines-java?branchName=master)](https://dev.azure.com/jiadu0710/DailyTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
